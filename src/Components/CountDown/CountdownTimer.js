@@ -89,7 +89,7 @@ export default function CountdownTimer() {
 
     return (
         <div>
-            <h1>Stop Watch</h1>
+            <h1>Timer</h1>
             {showEndScreen.show && <h1>{showEndScreen.message}</h1>}
             <Timer
                 seconds={seconds}
