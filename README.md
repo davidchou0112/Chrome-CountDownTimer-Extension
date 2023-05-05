@@ -39,6 +39,11 @@ npm install
 npm start
 ```
 
+4. If any changes are made, make sure to update build!
+```
+npm run build
+```
+
 <h2>Technologies:</h2>
 
 <h3> Languages </h3>
