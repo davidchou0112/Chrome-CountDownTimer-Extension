@@ -4,14 +4,13 @@ A quick and simple countdown timer to add to your Chrome extensions!
 
 ## Countdown
 
-![Start to End gif](https://user-images.githubusercontent.com/106726201/236576005-942e44ed-5207-418f-a824-c5f61a56d502.gif)
-
+![Start to End gif](https://user-images.githubusercontent.com/106726201/236578164-8b1cce95-72cb-4c18-8541-f4f0590b38d5.gif)
 
 ## Pause and Reset 
 
-![Pause and Reset gif](https://user-images.githubusercontent.com/106726201/236576053-6537d4c8-4d03-48e9-b815-ed336e402032.gif)
+![Pause and Reset gif](https://user-images.githubusercontent.com/106726201/236578203-a3a10c70-74be-46ee-8a8e-83da92c7e85d.gif)
 
-## Upload to Chrome Extensions
+# Upload to Chrome Extensions
 
 ### First navigate to Chrome Extensions and turn on developer mode
 
@@ -23,7 +22,7 @@ A quick and simple countdown timer to add to your Chrome extensions!
 
 ### Pin extension and play!
 
-![Pin extension gif](https://user-images.githubusercontent.com/106726201/236576175-151d1562-d395-46c5-9fa0-9a0e51aec986.gif)
+![Pin Ext gif](https://user-images.githubusercontent.com/106726201/236578226-4b063787-bbdf-4352-980c-1301dbdf4d04.gif)
 
 
 ## Getting Started Locally
