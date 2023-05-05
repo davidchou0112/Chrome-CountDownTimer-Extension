@@ -39,7 +39,7 @@ npm install
 npm start
 ```
 
-4. If any changes are made, make sure to update build!
+4. Create build by running
 ```
 npm run build
 ```
