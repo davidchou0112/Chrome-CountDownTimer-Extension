@@ -12,21 +12,6 @@ A quick and simple countdown timer to add to your Chrome extensions!
 
 # Upload to Chrome Extensions
 
-### First navigate to Chrome Extensions and turn on developer mode
-
-![Chrome ext, dev mode gif](https://user-images.githubusercontent.com/106726201/236576072-b69337a2-6091-435b-b583-d1f930139f7b.gif)
-
-### Load unpacked and navigate to 'build' file
-
-![Load unpacked, nav to build](https://user-images.githubusercontent.com/106726201/236576149-6861cd57-2f79-4fbc-88fe-8d87afe3c3fd.gif)
-
-### Pin extension and play!
-
-![Pin Ext gif](https://user-images.githubusercontent.com/106726201/236578226-4b063787-bbdf-4352-980c-1301dbdf4d04.gif)
-
-
-## Getting Started Locally
-
 1. Clone this repository or download zip file
 
 2. Install dependencies in your terminal
@@ -43,6 +28,19 @@ npm start
 ```
 npm run build
 ```
+
+### First navigate to Chrome Extensions and turn on developer mode
+
+![Chrome ext, dev mode gif](https://user-images.githubusercontent.com/106726201/236576072-b69337a2-6091-435b-b583-d1f930139f7b.gif)
+
+### Click load unpacked and navigate to 'build' file
+
+![Load unpacked, nav to build](https://user-images.githubusercontent.com/106726201/236576149-6861cd57-2f79-4fbc-88fe-8d87afe3c3fd.gif)
+
+### Pin extension and play!
+
+![Pin Ext gif](https://user-images.githubusercontent.com/106726201/236578226-4b063787-bbdf-4352-980c-1301dbdf4d04.gif)
+
 
 <h2>Technologies:</h2>
 
