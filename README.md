@@ -1,4 +1,4 @@
-# A simple countdown timer!
+# A simple countdown timer for Google Chrome Extension!
 
 A quick and simple countdown timer to add to your Chrome extensions!
 
