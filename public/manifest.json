@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Count Down Timer",
+  "description": "A countdown timer to keep on schedule.",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Countdown Timer"
+  },
+  "permissions": [
+    "scripting"
+  ],
+  "icons": {
+    "16": "logo192.png"
+  }
+}

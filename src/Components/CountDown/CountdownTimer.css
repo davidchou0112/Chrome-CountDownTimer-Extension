@@ -1,0 +1,27 @@
+.play {
+    color: black;
+    background-color: rgb(165, 165, 233);
+    height: 30px;
+    width: 50px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    border-radius: 8px;
+}
+
+.pause {
+    color: black;
+    background-color: rgb(211, 24, 24);
+    height: 30px;
+    width: 50px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    border-radius: 8px;
+}
+
+.reset {
+    height: 30px;
+    width: 50px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    border-radius: 8px;
+}
