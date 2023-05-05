@@ -1,5 +1,5 @@
 import React from 'react';
-import { BsStopwatch } from 'react-icons/bs';
+import { BsClockHistory } from 'react-icons/bs';
 import styled from "styled-components";
 
 // Wrapper to style our Timer making use of styled from styled-components
@@ -46,7 +46,7 @@ export default function Timer({ seconds, minutes, hours, changeSeconds, changeMi
     return (
         <div>
             <TimerWrapper>
-                <BsStopwatch className='stop-watch' />
+                <BsClockHistory className='stop-watch' />
                 <div className="d-flex flex-column">
                     <label>Hours</label>
                     <br></br>

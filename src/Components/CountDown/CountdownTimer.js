@@ -41,9 +41,10 @@ export default function CountdownTimer() {
                 };
             }, 1000)
         };
-        // When time is up, change showEndScreen to true to display ending message
+        // When time is up, change showEndScreen to true to display ending message and revert 'pause' button to 'play' due to interval stopping
         if (hours === 0 && minutes === 0 && seconds === 0) {
             setShowEndScreen({ ...showEndScreen, show: true });
+            setIsRunning(false);
         }
         return () => clearInterval(interval);
 
